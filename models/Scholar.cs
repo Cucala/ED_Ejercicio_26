@@ -10,9 +10,8 @@ namespace Ej26.models
     {
         private string degree;
         private string course;
-        private string department;
-       
-        public Scholar(
+        private string department; 
+        public Scholar(   
             string dni,
             string name,
             string surname,
